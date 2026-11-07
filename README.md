@@ -14,6 +14,8 @@ O objetivo da atividade foi criar e personalizar um portfólio profissional util
 
 O site apresenta informações sobre meu perfil profissional, formação acadêmica, tecnologias estudadas, projetos desenvolvidos e formas de contato.
 
+Link do site: https://annadiqueiroz.github.io/portfolio/ 
+
 ## 👩‍💻 Aluna
 
 **Anna Beatriz Queiroz Di Souza**
